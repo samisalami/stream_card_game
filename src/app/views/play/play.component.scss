@@ -1,0 +1,13 @@
+:host {
+  .play-wrapper {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+
+    .play-row {
+      display: flex;
+      flex-direction: row;
+      flex-grow: 1;
+    }
+  }
+}
